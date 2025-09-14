@@ -1,7 +1,7 @@
 🎴 Couple Cards - Deepen your connection one question at a time
 ============================
 
-![](https://raw.githubusercontent.com/michaelsboost/CoupleCards/main/imgs/screenshot.png)
+![](https://raw.githubusercontent.com/michaelsboost/CoupleCards/main/imgs/screenshot.jpeg)
 
 ## 🌟 Overview  
 **Couple Cards** is a fun, interactive card-flipping memory game built with **HTML, CSS, and JavaScript** — designed to help couples learn, connect, share memories, and create lasting bonds.
